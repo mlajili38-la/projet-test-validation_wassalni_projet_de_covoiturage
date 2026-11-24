@@ -3,7 +3,7 @@
 Mini-projet **« Atelier Test et validation des logiciels »**, Licence 3 Technologies de l'information, spécialité DSI.
 Application testée : **WASSALNI**, application web de covoiturage (Symfony 7.4, PHP 8.4, MariaDB), avec trois rôles (passager, conducteur, administrateur) et un module de réclamations.
 
-Étudiant : Mohamed Lajili Amir menzli 
+Étudiant : Mohamed Lajili Amir Menzli 
 
 ## Résultat en bref
 
